@@ -1,4 +1,5 @@
 # Exam preparation CKA 1.14.1 (april 2019)
+source: https://github.com/cncf/curriculum
 
 ## Topics
 ### Scheduling (5%)
