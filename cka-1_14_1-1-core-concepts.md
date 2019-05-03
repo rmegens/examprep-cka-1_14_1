@@ -1,4 +1,5 @@
 # Core concepts (19%)
+## [Core concepts](https://kubernetes.io/docs/concepts/)
 - Understand Kubernetes API primitives
 - Understand Kubernetes cluster architecture
 - Understand Services and other network primitives
